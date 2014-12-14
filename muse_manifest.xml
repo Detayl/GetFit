@@ -1,0 +1,36 @@
+<manifest alg="2" build="2" opt="false">
+  <folder name="css">
+    <file name="site_global.css" crc="3835980900"/>
+    <file name="index.css" crc="269662171" ref="index"/>
+    <file name="about.css" crc="3763210600" ref="about"/>
+    <file name="downloads.css" crc="3829669407" ref="downloads"/>
+    <file name="software.css" crc="3879008162" ref="software"/>
+    <file name="contact.css" crc="37794177" ref="contact"/>
+  </folder>
+  <folder name="assets">
+    <file name="getfitwithlol.zip" crc="4257780431" mt="1418430630000"/>
+  </folder>
+  <folder name="scripts">
+    <folder name="1.1">
+      <file name="jquery-1.7.min.js" crc="526788486" ref="index:software:downloads:about:contact"/>
+      <file name="museutils.js" crc="410024474" ref="index:software:downloads:about:contact"/>
+      <file name="pie.js" crc="4067523484" ref="index:software:downloads:about:contact"/>
+      <file name="pie.htc" crc="119515598" ref="index:software:downloads:about:contact"/>
+      <file name="jquery.musemenu.js" crc="4249929386" ref="index:software:downloads:about:contact"/>
+      <file name="jquery.watch.js" crc="3882405427" ref="index:software:downloads:about"/>
+    </folder>
+  </folder>
+  <folder name="images">
+    <file name="black_xp_technology_black_xp_w_1440x900_wallpaperhicom.jpg" crc="3974722359" ref="index:downloads:about:contact"/>
+    <file name="menuu765-sprite.png" crc="376102133" ref="index:software:downloads:about:contact"/>
+    <file name="gfwl2.jpg" crc="4128482335" ref="software"/>
+    <file name="gfwl1.jpg" crc="435344859" ref="software"/>
+    <file name="gfwl3.jpg" crc="375498540" ref="software"/>
+    <file name="u205-full.png" crc="90603495" ref="about"/>
+  </folder>
+  <file name="index.html" crc="4284661221" mt="1418522987879"/>
+  <file name="software.html" crc="4012056620" mt="1418522734097"/>
+  <file name="downloads.html" crc="4147691661" mt="1418522697363"/>
+  <file name="about.html" crc="163790059" mt="1418522747114"/>
+  <file name="contact.html" crc="377270417" mt="1418522954359"/>
+</manifest>
