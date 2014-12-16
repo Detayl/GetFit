@@ -1,7 +1,7 @@
 body
 {
    background-color: #FFFFFF;
-   background-image: url(images/Downloads_bkgrnd.png);
+   background-image: url(images/downloads_bkgrnd.png);
    background-repeat: repeat-x;
    color: #000000;
    font-family: Arial;
@@ -146,10 +146,6 @@ body
 #wb_Text5 div
 {
    text-align: left;
-}
-#Shape2
-{
-   border-width: 0;
 }
 #Line2
 {

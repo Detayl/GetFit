@@ -1,7 +1,7 @@
 body
 {
    background-color: #FFFFFF;
-   background-image: url(images/Resume_bkgrnd.png);
+   background-image: url(images/resume_bkgrnd.png);
    background-repeat: repeat-x;
    color: #000000;
    font-family: Arial;
@@ -260,10 +260,6 @@ body
 #wb_Text13 div
 {
    text-align: left;
-}
-#Shape5
-{
-   border-width: 0;
 }
 #Line3
 {

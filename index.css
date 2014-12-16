@@ -1,7 +1,7 @@
 body
 {
    background-color: #FFFFFF;
-   background-image: url(images/about_bkgrnd.png);
+   background-image: url(images/index_bkgrnd.png);
    background-repeat: repeat-x;
    color: #000000;
    font-family: Arial;
@@ -67,7 +67,7 @@ body
 }
 #PanelMenu1_markup li a, #PanelMenu1_markup li a:hover
 {
-   padding: 10px 10px 10px 10px;
+   padding: 15px 10px 15px 10px;
    border-width: 0;
    border-bottom-width: 1px;
    border-radius: 0;
@@ -107,6 +107,10 @@ body
 {
    text-align: left;
 }
+#Shape1
+{
+   border-width: 0;
+}
 #wb_Text3 
 {
    background-color: transparent;
@@ -116,22 +120,6 @@ body
    text-align: left;
 }
 #wb_Text3 div
-{
-   text-align: left;
-}
-#Shape1
-{
-   border-width: 0;
-}
-#wb_Text4 
-{
-   background-color: transparent;
-   border: 0px #000000 solid;
-   padding: 0;
-   margin: 0;
-   text-align: left;
-}
-#wb_Text4 div
 {
    text-align: left;
 }
